@@ -1,7 +1,8 @@
 {
-  "name": "framework-shop",
+  "name": "framework-shop  ",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://IsraelLaguan.github.io/TiendaOnline/",
   "devDependencies": {
     "enzyme": "^2.7.1",
     "gh-pages": "^1.1.0",
@@ -24,6 +25,5 @@
     "publish": "npm run build && gh-pages -d build",
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://github.com/IsraelLaguan/TiendaOnline/"
+  }
 }
