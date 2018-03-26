@@ -34,7 +34,7 @@ export function Details( { addToCart, history, product } ) {
 				className="details__buy"
 				onClick={ addToCartAndRedirect }
 			>
-				Compra ya por ${ price }!
+				Compra por ${ price }!
 			</button>
 		</div>
 	);
